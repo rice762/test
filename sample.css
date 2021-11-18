@@ -1,0 +1,12 @@
+div{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    background-color: azure;
+}
+p{
+    color: red;
+}
+button{
+    border-radius: 50%;
+}

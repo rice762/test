@@ -1,0 +1,7 @@
+{
+  "name": "練習",
+  "short_name": "テスト",
+  "start_url": "practice.html",
+  "display": "standalone",
+  "description": "test"
+}
