@@ -1,7 +1,6 @@
 
 <?PHP
     header('Content-Type: text/html; charset=UTF-8');
-    $db = new pdo("mysql:host=172.24.73.76/localhost;dbname=db_test", "root", "password");
     
     $sql = "SELECT * FROM order_table2";
     // $sql = "SELECT * FROM table5 ORDER BY RAND() LIMIT 1";
